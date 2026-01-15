@@ -2,25 +2,25 @@
     {
         "id": 1,
         "icon": "sport",
-        "name": "Отжимания",
+        "name": "Push-ups",
         "target": 10,
         "days": [
             {
-                "comment": "Первый подход всегда даётся тяжело"
+                "comment": "The first set is always the hardest"
             },
             {
-                "comment": "Второй день уже проще"
+                "comment": "Day two is already easier"
             }
         ]
     },
     {
         "id": 2,
         "icon": "food",
-        "name": "Правильное питание",
+        "name": "Healthy eating",
         "target": 10,
         "days": [
             {
-                "comment": "Круто!"
+                "comment": "Great start!"
             }
         ]
     }
